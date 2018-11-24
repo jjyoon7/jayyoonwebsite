@@ -154,8 +154,6 @@ const Links = ({x}) => {
       <Link>Web developer</Link>      
       <Link>
         <a href="http://postpresshouse.com/">work</a>
-        <Slash/>
-        <a href="https://github.com/jjyoon7">github</a>
       </Link>
       <Link>
         <a href="mailto:jay.yoon7@gmail.com">contact</a>
