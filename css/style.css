@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&family=Work+Sans&display=swap');
 body {
   background-color: #f9f9f9;
   margin: 0;
@@ -29,12 +29,12 @@ body {
 }
 
 .card-plane .card-face.front .title {
-  font-size: 17px;
+  font-size: 15px;
   padding: 18px 18px;
 }
 
 .card-plane .card-face.front .title-small {
-  font-size: 13px;
+  font-size: 11px;
   line-height: 150%;
   padding: 22px 22px;
   margin-top: -35px;
@@ -92,7 +92,7 @@ body {
 }
 
 #links {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Work Sans', sans-serif;
   font-size: 9vmin;
   padding: 4vmin;
   font-weight: 300;
