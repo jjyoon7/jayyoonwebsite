@@ -65,7 +65,7 @@ body {
   position: fixed;
   left: calc(50vw -  182.85714px + 40px);
   top: 90px;
-  font-family: "Roboto Mono";
+  font-family: 'Work Sans', sans-serif;
   color: white;
   font-size: 15px;
   width: 300px;
