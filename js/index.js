@@ -187,7 +187,7 @@ var Links = function Links(_ref) {
       React.createElement(
         'a',
         { href: 'https://checkjayswork.tumblr.com' },
-        'work'
+        'design'
       ),
       React.createElement(Slash, null),
       React.createElement(
