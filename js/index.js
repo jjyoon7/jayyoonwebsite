@@ -49,7 +49,12 @@ var CardFront = React.createClass({
       React.createElement(
         'div',
         { className: 'title-small' },
-        'Tel.0614610141 Bankastaat 10-2 1094ED Amsterdam Holland'
+        `Full stack developer Graphic Designer`
+      ),
+      React.createElement(
+        'div',
+        { className: 'title-small' },
+        `Tel.079 326 5326`
       ),
       React.createElement(
         'div',
@@ -174,19 +179,14 @@ var Links = function Links(_ref) {
     React.createElement(
       Link,
       null,
-      'Graphic designer'
-    ),
-    React.createElement(
-      Link,
-      null,
-      'Web developer'
+      '✧･ﾟ･╰(o˘◡˘o)╯'
     ),
     React.createElement(
       Link,
       null,
       React.createElement(
         'a',
-        { href: 'http://postpresshouse.com/' },
+        { href: 'https://checkjayswork.tumblr.com' },
         'work'
       ),
       React.createElement(Slash, null),
